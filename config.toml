@@ -12,6 +12,7 @@ address = "Coimbatore, India"
 favicon = "/favicon.ico"
 firstName = "Srivadhsan"
 lastName = "MayaKrishnan"
+profileImage = "https://avatars.githubusercontent.com/u/96367793?v=4"
 phone = "1-555-555-1234"
 showSocializations = true
 showContact = false
@@ -28,7 +29,7 @@ link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
 name = "LinkedIn"
 
 [[params.handles]]
-link = "https://github.com/sathishk/"
+link = "https://github.com/SrivadhsanM/"
 name = "GitHub"
 
 [outputs]
