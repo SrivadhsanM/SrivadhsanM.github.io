@@ -13,7 +13,7 @@ favicon = "/favicon.ico"
 firstName = "Srivadhsan"
 lastName = "MayaKrishnan"
 profileImage = "https://avatars.githubusercontent.com/u/96367793?v=4"
-phone = "1-555-555-1234"
+phone = "+91 6384695915"
 showSocializations = true
 showContact = false
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
@@ -25,7 +25,7 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "https://www.linkedin.com/in/srivadhsan-m-60059b284/"
 name = "LinkedIn"
 
 [[params.handles]]
